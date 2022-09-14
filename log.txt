@@ -1,0 +1,19 @@
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Field timestamp create as date field, though DateTime requested.
+Warning 6: Field begin create as date field, though DateTime requested.
+Warning 6: Field end create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'altitudeMode' to 'altitudeMo'
+Warning 6: Normalized/laundered field name: 'Descripci__n' to 'Descripci_'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Field timestamp create as date field, though DateTime requested.
+Warning 6: Field begin create as date field, though DateTime requested.
+Warning 6: Field end create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'altitudeMode' to 'altitudeMo'
+Warning 6: Normalized/laundered field name: 'Descripci__n' to 'Descripci_'
+Warning 1: Value 'Descripción: descripción: <br>GID: 1926.000000000000000<br>COD_RECORR: G_DU_RM_CL_103<br>FECHA_DESD: 2019-10-30<br>MUNICIPIO: G<br>ESTADO: 2.000000000000000<br>descripción: <br>GID: 1926.000000000000000<br>COD_RECORR: G_DU_RM_CL_103<br>FECHA_DESD: 2019-10-30<br>MUNICIPIO: G<br>ESTADO: 2.000000000000000' of field descriptio has been truncated to 254 characters.  This warning will not be emitted any more for that layer.
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Field timestamp create as date field, though DateTime requested.
+Warning 6: Field begin create as date field, though DateTime requested.
+Warning 6: Field end create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'altitudeMode' to 'altitudeMo'
+Warning 6: Normalized/laundered field name: 'Descripci__n' to 'Descripci_'
